@@ -33,7 +33,6 @@ citation:
   container-title: Notebooks Now!
 draft: false
 bibliography: references.bib
-echo: false
 ---
 
 ## Introduction
