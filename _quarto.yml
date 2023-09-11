@@ -6,10 +6,13 @@ execute:
   
 format:
   html:
-    toc: true
-    format-links: [agu-pdf, docx]
+    theme: cosmo
+    toc-location: left
     comments: 
       hypothesis: true
+    citations-hover: true
+    crossrefs-hover: true
+    title-block-style: manuscript  
     repo-url: https://github.com/cwickham/submission-quarto-lite-r
     repo-actions: [edit, issue]    
   agu-pdf: default
