@@ -85,6 +85,10 @@ $$ {#eq-probability}
 
 So following the 1971 eruption the probability of an eruption in the following 50 years — the period ending this year — was 0.469. After the event, the number of eruptions per year moves to $\lambda=\frac{1}{75}$ and the probability of a further eruption within the next 50 years (2022-2071) rises to 0.487 and in the next 100 years, this rises again to 0.736.
 
+{{< embed notebooks/data-screening.ipynb#fig-spatial-plot >}}
+
+@fig-spatial-plot shows the locations of recent earthquakes on La Palma.
+
 ### Magma Reservoirs
 
 > You may provide the bibliography directly as a bibtex, biblatex, CSL JSON, or CSL YAML file (defined in the document front matter or `_quarto.yml` project file) then embed the citation by citation key in your text using the `[@cite]` or `@cite` for parenthetical or textual citations, respectively. The following paragraph provides an example of this. Quarto's [documentation on citations](https://quarto.org/docs/authoring/footnotes-and-citations.html) provides more details on working with bibliographies and citations.
